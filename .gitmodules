@@ -1,0 +1,12 @@
+[submodule "DopeAssDisplay-CommunicationsManager"]
+	path = DopeAssDisplay-CommunicationsManager
+	url = git@github.com:Open-Ocean-Software/DopeAssDisplay-CommunicationsManager.git
+[submodule "DopeAssDisplay-DisplayController"]
+	path = DopeAssDisplay-DisplayController
+	url = git@github.com:Open-Ocean-Software/DopeAssDisplay-DisplayController.git
+[submodule "DopeAssDisplay-ImagingManager"]
+	path = DopeAssDisplay-ImagingManager
+	url = git@github.com:Open-Ocean-Software/DopeAssDisplay-ImagingManager.git
+[submodule "DopeAssDisplay-SegmentManager"]
+	path = DopeAssDisplay-SegmentManager
+	url = git@github.com:Open-Ocean-Software/DopeAssDisplay-SegmentManager.git
