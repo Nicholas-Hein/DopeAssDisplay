@@ -1,4 +1,4 @@
-./DopeAssDisplay-CommunicationsManager/*
-./DopeAssDisplay-DisplayController/*
-./DopeAssDisplay-ImagingManager/*
-./DopeAssDisplay-SegmentManager/*
+DopeAssDisplay-CommunicationsManager/*
+DopeAssDisplay-DisplayController/*
+DopeAssDisplay-ImagingManager/*
+DopeAssDisplay-SegmentManager/*
